@@ -1,0 +1,37 @@
+.mainWidget {
+  height: 21rem;
+  width: 100%;
+  background-color: #091f30;
+  border-radius: 30px;
+  margin-top: 1rem;
+  padding: 2rem;
+  color: white;
+}
+
+.noMargin {
+  margin: 0;
+}
+
+.cityName {
+  font-weight: 600;
+  margin-top: 5px;
+}
+
+.mood {
+  font-size: 20px;
+  font-weight: 400;
+  margin-top: 5px;
+}
+
+.weatherIcon {
+  width: 7rem;
+}
+
+.temperature {
+  font-size: 80px;
+  margin: 5px;
+}
+
+.weatherInfo {
+  font-size: 14px;
+}

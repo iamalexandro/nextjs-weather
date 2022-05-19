@@ -1,0 +1,129 @@
+{
+    "region": "Misiones Province, Argentina",
+    "currentConditions": {
+        "dayhour": "Wednesday 5:00 PM",
+        "temp": {
+            "c": 17,
+            "f": 62
+        },
+        "precip": "36%",
+        "humidity": "94%",
+        "wind": {
+            "km": 10,
+            "mile": 6
+        },
+        "iconURL": "https://ssl.gstatic.com/onebox/weather/64/cloudy.png",
+        "comment": "Cloudy"
+    },
+    "next_days": [
+        {
+            "day": "Wednesday",
+            "comment": "Scattered showers",
+            "max_temp": {
+                "c": 18,
+                "f": 64
+            },
+            "min_temp": {
+                "c": 13,
+                "f": 56
+            },
+            "iconURL": "https://ssl.gstatic.com/onebox/weather/48/rain_s_cloudy.png"
+        },
+        {
+            "day": "Thursday",
+            "comment": "Partly cloudy",
+            "max_temp": {
+                "c": 21,
+                "f": 69
+            },
+            "min_temp": {
+                "c": 9,
+                "f": 48
+            },
+            "iconURL": "https://ssl.gstatic.com/onebox/weather/48/partly_cloudy.png"
+        },
+        {
+            "day": "Friday",
+            "comment": "Mostly sunny",
+            "max_temp": {
+                "c": 23,
+                "f": 74
+            },
+            "min_temp": {
+                "c": 11,
+                "f": 51
+            },
+            "iconURL": "https://ssl.gstatic.com/onebox/weather/48/partly_cloudy.png"
+        },
+        {
+            "day": "Saturday",
+            "comment": "Partly cloudy",
+            "max_temp": {
+                "c": 23,
+                "f": 74
+            },
+            "min_temp": {
+                "c": 12,
+                "f": 53
+            },
+            "iconURL": "https://ssl.gstatic.com/onebox/weather/48/partly_cloudy.png"
+        },
+        {
+            "day": "Sunday",
+            "comment": "Partly cloudy",
+            "max_temp": {
+                "c": 23,
+                "f": 74
+            },
+            "min_temp": {
+                "c": 11,
+                "f": 52
+            },
+            "iconURL": "https://ssl.gstatic.com/onebox/weather/48/partly_cloudy.png"
+        },
+        {
+            "day": "Monday",
+            "comment": "Partly cloudy",
+            "max_temp": {
+                "c": 23,
+                "f": 74
+            },
+            "min_temp": {
+                "c": 13,
+                "f": 56
+            },
+            "iconURL": "https://ssl.gstatic.com/onebox/weather/48/partly_cloudy.png"
+        },
+        {
+            "day": "Tuesday",
+            "comment": "Scattered showers",
+            "max_temp": {
+                "c": 20,
+                "f": 68
+            },
+            "min_temp": {
+                "c": 12,
+                "f": 53
+            },
+            "iconURL": "https://ssl.gstatic.com/onebox/weather/48/rain_s_cloudy.png"
+        },
+        {
+            "day": "Wednesday",
+            "comment": "Partly cloudy",
+            "max_temp": {
+                "c": 21,
+                "f": 70
+            },
+            "min_temp": {
+                "c": 12,
+                "f": 53
+            },
+            "iconURL": "https://ssl.gstatic.com/onebox/weather/48/partly_cloudy.png"
+        }
+    ],
+    "contact_author": {
+        "email": "communication.with.users@gmail.com",
+        "auth_note": "Mail me for feature requests, improvement, bug, help, ect... Please tell me if you want me to provide any other free easy-to-use API services"
+    },
+    "data_source": "https://www.google.com/search?lr=lang_en&q=weather+in+misiones"
+}

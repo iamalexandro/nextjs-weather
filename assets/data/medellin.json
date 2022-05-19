@@ -1,0 +1,129 @@
+{
+    "region": "Medellín, Medellin, Antioquia, Colombia",
+    "currentConditions": {
+        "dayhour": "Wednesday 3:00 PM",
+        "temp": {
+            "c": 27,
+            "f": 81
+        },
+        "precip": "16%",
+        "humidity": "50%",
+        "wind": {
+            "km": 18,
+            "mile": 11
+        },
+        "iconURL": "https://ssl.gstatic.com/onebox/weather/64/partly_cloudy.png",
+        "comment": "Mostly cloudy"
+    },
+    "next_days": [
+        {
+            "day": "Wednesday",
+            "comment": "Isolated thunderstorms",
+            "max_temp": {
+                "c": 29,
+                "f": 84
+            },
+            "min_temp": {
+                "c": 18,
+                "f": 64
+            },
+            "iconURL": "https://ssl.gstatic.com/onebox/weather/48/rain_s_cloudy.png"
+        },
+        {
+            "day": "Thursday",
+            "comment": "Thunderstorm",
+            "max_temp": {
+                "c": 26,
+                "f": 78
+            },
+            "min_temp": {
+                "c": 18,
+                "f": 64
+            },
+            "iconURL": "https://ssl.gstatic.com/onebox/weather/48/thunderstorms.png"
+        },
+        {
+            "day": "Friday",
+            "comment": "Thunderstorm",
+            "max_temp": {
+                "c": 24,
+                "f": 75
+            },
+            "min_temp": {
+                "c": 18,
+                "f": 64
+            },
+            "iconURL": "https://ssl.gstatic.com/onebox/weather/48/thunderstorms.png"
+        },
+        {
+            "day": "Saturday",
+            "comment": "Thunderstorm",
+            "max_temp": {
+                "c": 23,
+                "f": 74
+            },
+            "min_temp": {
+                "c": 17,
+                "f": 63
+            },
+            "iconURL": "https://ssl.gstatic.com/onebox/weather/48/thunderstorms.png"
+        },
+        {
+            "day": "Sunday",
+            "comment": "Scattered thunderstorms",
+            "max_temp": {
+                "c": 25,
+                "f": 77
+            },
+            "min_temp": {
+                "c": 17,
+                "f": 63
+            },
+            "iconURL": "https://ssl.gstatic.com/onebox/weather/48/rain_s_cloudy.png"
+        },
+        {
+            "day": "Monday",
+            "comment": "Thunderstorm",
+            "max_temp": {
+                "c": 27,
+                "f": 80
+            },
+            "min_temp": {
+                "c": 18,
+                "f": 65
+            },
+            "iconURL": "https://ssl.gstatic.com/onebox/weather/48/thunderstorms.png"
+        },
+        {
+            "day": "Tuesday",
+            "comment": "Thunderstorm",
+            "max_temp": {
+                "c": 26,
+                "f": 78
+            },
+            "min_temp": {
+                "c": 18,
+                "f": 64
+            },
+            "iconURL": "https://ssl.gstatic.com/onebox/weather/48/thunderstorms.png"
+        },
+        {
+            "day": "Wednesday",
+            "comment": "Thunderstorm",
+            "max_temp": {
+                "c": 24,
+                "f": 76
+            },
+            "min_temp": {
+                "c": 18,
+                "f": 64
+            },
+            "iconURL": "https://ssl.gstatic.com/onebox/weather/48/thunderstorms.png"
+        }
+    ],
+    "contact_author": {
+        "email": "communication.with.users@gmail.com",
+        "auth_note": "Mail me for feature requests, improvement, bug, help, ect... Please tell me if you want me to provide any other free easy-to-use API services"
+    },
+    "data_source": "https://www.google.com/search?lr=lang_en&q=weather+in+medellin"
+}

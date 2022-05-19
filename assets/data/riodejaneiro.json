@@ -1,0 +1,129 @@
+{
+    "region": "Rio de Janeiro, State of Rio de Janeiro, Brazil",
+    "currentConditions": {
+        "dayhour": "Wednesday 5:00 PM",
+        "temp": {
+            "c": 24,
+            "f": 76
+        },
+        "precip": "88%",
+        "humidity": "97%",
+        "wind": {
+            "km": 8,
+            "mile": 5
+        },
+        "iconURL": "https://ssl.gstatic.com/onebox/weather/64/partly_cloudy.png",
+        "comment": "Mostly cloudy"
+    },
+    "next_days": [
+        {
+            "day": "Wednesday",
+            "comment": "Thunderstorm",
+            "max_temp": {
+                "c": 29,
+                "f": 84
+            },
+            "min_temp": {
+                "c": 23,
+                "f": 73
+            },
+            "iconURL": "https://ssl.gstatic.com/onebox/weather/48/thunderstorms.png"
+        },
+        {
+            "day": "Thursday",
+            "comment": "Isolated thunderstorms",
+            "max_temp": {
+                "c": 27,
+                "f": 80
+            },
+            "min_temp": {
+                "c": 22,
+                "f": 71
+            },
+            "iconURL": "https://ssl.gstatic.com/onebox/weather/48/rain_s_cloudy.png"
+        },
+        {
+            "day": "Friday",
+            "comment": "Partly cloudy",
+            "max_temp": {
+                "c": 25,
+                "f": 77
+            },
+            "min_temp": {
+                "c": 21,
+                "f": 70
+            },
+            "iconURL": "https://ssl.gstatic.com/onebox/weather/48/partly_cloudy.png"
+        },
+        {
+            "day": "Saturday",
+            "comment": "Scattered showers",
+            "max_temp": {
+                "c": 24,
+                "f": 76
+            },
+            "min_temp": {
+                "c": 20,
+                "f": 68
+            },
+            "iconURL": "https://ssl.gstatic.com/onebox/weather/48/rain_s_cloudy.png"
+        },
+        {
+            "day": "Sunday",
+            "comment": "Partly cloudy",
+            "max_temp": {
+                "c": 24,
+                "f": 75
+            },
+            "min_temp": {
+                "c": 20,
+                "f": 68
+            },
+            "iconURL": "https://ssl.gstatic.com/onebox/weather/48/partly_cloudy.png"
+        },
+        {
+            "day": "Monday",
+            "comment": "Partly cloudy",
+            "max_temp": {
+                "c": 24,
+                "f": 75
+            },
+            "min_temp": {
+                "c": 19,
+                "f": 66
+            },
+            "iconURL": "https://ssl.gstatic.com/onebox/weather/48/partly_cloudy.png"
+        },
+        {
+            "day": "Tuesday",
+            "comment": "Sunny",
+            "max_temp": {
+                "c": 25,
+                "f": 77
+            },
+            "min_temp": {
+                "c": 19,
+                "f": 67
+            },
+            "iconURL": "https://ssl.gstatic.com/onebox/weather/48/sunny.png"
+        },
+        {
+            "day": "Wednesday",
+            "comment": "Scattered thunderstorms",
+            "max_temp": {
+                "c": 26,
+                "f": 79
+            },
+            "min_temp": {
+                "c": 21,
+                "f": 69
+            },
+            "iconURL": "https://ssl.gstatic.com/onebox/weather/48/rain_s_cloudy.png"
+        }
+    ],
+    "contact_author": {
+        "email": "communication.with.users@gmail.com",
+        "auth_note": "Mail me for feature requests, improvement, bug, help, ect... Please tell me if you want me to provide any other free easy-to-use API services"
+    },
+    "data_source": "https://www.google.com/search?lr=lang_en&q=weather+in+riodejaneiro"
+}
